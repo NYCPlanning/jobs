@@ -8,13 +8,13 @@ categories: technology
 
 This role reports to the [Chief Operating Officer](http://a856-gbol.nyc.gov/GBOLWebsite/GreenBook/Details?orgId=2902)
 
-###THE AGENCY 
+#### THE AGENCY 
 
 The [Department of City Planning (DCP)](http://www1.nyc.gov/site/planning/index.page) promotes strategic growth, transit‐oriented development and sustainable communities to enhance quality of life in the City, in part by initiating comprehensive, consensus‐based planning and zoning changes for individual neighborhoods and business districts, as well as establishing policies and zoning regulations applicable citywide. DCP also supports the City Planning Commission in its annual review of approximately 450 land use applications for actions such aszoning changes, special permits and a variety of other discretionary approvals. In addition, the Department assists both government agencies and the public by providing policy analysis and technical assistance relating to housing, transportation, community facilities, demography, zoning, urban design, waterfront areas and public open space.
 
 Under Housing New York: A Five-Borough, Ten Year Plan, the Department will lead coordinated, ground up neighborhood planning studies and advance regulatory changes—including mandatory inclusionary housing in newly rezoned areas—to promote more economically diverse communities and housing opportunities for New Yorkers at all income levels. Through inclusive community development initiatives with stakeholders, DCP will expand access to quality jobs and services, and stimulate economic development benefitting all New Yorkers. In addition, DCP is committed to expanding public access to land use, housing and population data and planning resources through its online Community Portal, as well as to support informed participation by New Yorkers in neighborhood planning and land use review processes. 
 
-###THE ROLE 
+#### THE ROLE 
 
 Reporting to the Chief Operating Officer, the CIO will set the overall technological vision and a clear set of IT priorities for the Agency. The CIO will manage five IT sections within DCP, which in aggregate provide essential support and applications to advance the Agency’s policy agenda as well as its Charter-mandated activity such as approving land use applications. The Chief Information Officer will be responsible for the entirety of the Agency’s technology projects, programs, data sets and initiatives, including the roughly 50 staff that lead or perform these activities today. See attached sheet for description of the existing sections and teams of the IT division. 
 
@@ -32,7 +32,7 @@ The CIO is also responsible for the professional development of all IT staff. Th
 
 As with any City agency IT department, relationships with the Department of Information Technology & Telecommunications (DoITT) are critical to cost efficiencies and technological effectiveness. The CIO will build collaborative, effective relationships with various DoITT divisions, and ensure relevant learnings are shared broadly through the IT organizations. The CIO is also expected to foster constructive working relationships with CIOs in our partner agencies and to pursue interagency projects to promote the city’s growth, vitality and equity. The CIO will be committed to sharing City Planning data and information with partners and the public through the agency and city’s open data platforms. 
 
-###DEPARTMENT OF CITY PLANNING IT DIVISIONAL OVERVIEW 
+#### DEPARTMENT OF CITY PLANNING IT DIVISIONAL OVERVIEW 
 **PC and Network Services (PCNS)**
 
 PCNS provides services related to all agency computer hardware and software, and is responsible for managing the local and wide area networks at the six City Planning office locations. Services include telecommunication with CityNet (NYC’s network used for mainframe access, email services, video, and other data transmissions among City agencies), with the Internet, and to agency issued hand held devices. 
@@ -83,7 +83,7 @@ The team provides assistance in the use of the geographic information and softwa
 - Hands-on experience in geographic systems software 
 - Familiarity with City technology guidelines and DoITT policies 
 
-###QUALIFICATION REQUIREMENTS:### 
+#### QUALIFICATION REQUIREMENTS:####  
 
 1. A master's degree in computer science from an accredited college and three years of progressively more responsible, full-time, satisfactory experience using information technology in computer applications programming, systems programming, computer systems development, data telecommunications, database administration, planning of data/information processing, user services, or area networks at least 18 months of this experience must have been in an administrative, managerial or executive capacity in the areas of computer applications programming, systems programming, computer systems development, data telecommunications, data base administration, or planning of data processing or in the supervision of staff performing these duties; or 
 
