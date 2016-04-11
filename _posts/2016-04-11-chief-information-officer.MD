@@ -4,6 +4,7 @@ title:  "Chief Information Officer"
 description: "The CIO will set the overall technological vision and a clear set of IT priorities for the Agency. The CIO will manage five IT sections within DCP, which in aggregate provide essential support and applications to advance the Agency’s policy agenda"
 date:   2016-04-11 13:10:54 -0400
 categories: technology
+social_media_message: ".@NYCPlanning is looking for a new CIO! Check out the job listing here"
 ---
 
 This role reports to the [Chief Operating Officer](http://a856-gbol.nyc.gov/GBOLWebsite/GreenBook/Details?orgId=2902)
